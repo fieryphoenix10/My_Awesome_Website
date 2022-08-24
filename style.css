@@ -1,0 +1,49 @@
+nav{
+    position: absolute;
+    background-color: lightpink;
+    height: 10%;
+    margin: 30px;
+    display: inline;
+    margin-left: 50vw;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+nav a{
+    height: 100px;
+    padding: 20px;
+/* margin: 30px; */;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    background-color: aquamarine;
+    box-shadow: 0 0 20px rgb(142, 7, 196);
+}
+
+a:visited{
+color: darkblue;
+}
+
+img{
+width: 400px;
+height: 400px;
+object-fit: cover;
+margin-bottom: 30px;
+margin: 5%;
+}
+
+#logo{
+    margin-left: 20px;
+    margin-top: 0%;
+    width: 100px;
+    height: auto;
+}
+
+#body{
+    margin-left: 55px;
+
+}

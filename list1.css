@@ -1,0 +1,46 @@
+body{
+    background: radial-gradient(rgb(232, 232, 88), pink);
+    font-family:Arial, Helvetica, sans-serif
+}
+h2{
+    color: rgb(43, 101, 226);
+}
+div{
+    margin-left: 40%;
+}
+li,dd{
+    color: darkorchid;
+}
+ul{
+    list-style-type: square;
+}
+li{
+    list-style-type: upper-roman;
+}
+
+nav{
+    height: 10%;
+    margin: 30px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+nav a{
+    height: 100px;
+    padding: 20px;
+/* margin: 30px; */;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    background-color: aquamarine;
+    box-shadow: 0 0 20px rgb(142, 7, 196);
+}
+
+a:visited{
+color: darkblue;
+}
+

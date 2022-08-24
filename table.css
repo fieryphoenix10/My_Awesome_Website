@@ -1,0 +1,61 @@
+body{
+    background-color:rgb(233, 233, 116);
+    font-size: 30px;
+}
+
+table,td,th{
+    border: 2px solid black;
+    margin: auto;
+    
+}
+
+table{
+    height: 50vh;
+    width: 60%;
+}
+h1{
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px white;
+}
+
+caption{
+    font-weight: bolder;
+    text-shadow: 2px 2px white;
+}
+
+table:hover{
+    box-shadow:5px 5px black;
+    opacity: 50%;
+
+}
+
+h1:hover{
+    border:30px dashed lightsalmon;
+}
+
+nav{
+    height: 10%;
+    margin: 30px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+nav a{
+    height: 100px;
+    padding: 20px;
+/* margin: 30px; */;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    background-color: aquamarine;
+    box-shadow: 0 0 20px rgb(142, 7, 196);
+}
+
+a:visited{
+color: darkblue;
+}
